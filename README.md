@@ -1,6 +1,8 @@
 # RegDB
 
-An extremely simple key-value "database" backed by Windows Registry.
+![RegDB Logo](https://github.com/Orfeous/regdb/raw/main/Logo.png)
+
+RegDB is an extremely simple key-value "database" backed by Windows Registry.
 
 ## Usage
 
